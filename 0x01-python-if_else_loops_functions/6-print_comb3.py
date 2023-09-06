@@ -12,5 +12,4 @@ for digit1 in range(0, 10):
         else:
             print("{}{}".format(digit1, digit2), end=", ")
 
-=====================
 

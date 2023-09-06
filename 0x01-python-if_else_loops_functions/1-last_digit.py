@@ -13,5 +13,4 @@ else:
     print("less than 6 and not 0")
 
 
-====================
 
